@@ -1,3 +1,4 @@
+import React from 'react';
 import withAuth from '../HOCAuth/AuthWrapper';
 
 const About = () => {
